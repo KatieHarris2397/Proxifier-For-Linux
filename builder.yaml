@@ -1,0 +1,2 @@
+- projecttype: "C"
+- configcmd: "autoreconf -vfi && ./configure"
