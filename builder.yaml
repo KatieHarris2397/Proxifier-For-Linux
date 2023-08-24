@@ -1,2 +1,3 @@
 - projecttype: "C"
 - configcmd: "autoreconf -vfi && ./configure"
+- buildcmd: "make all"
